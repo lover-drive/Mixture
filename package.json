@@ -1,0 +1,11 @@
+{
+  "name": "the-mixture",
+  "version": "1.0.3",
+  "description": "A tool for easily creating mixins.",
+  "main": "Mixture.js",
+  "keywords": [
+    "mixins"
+  ],
+  "author": "lover-drive",
+  "license": "MIT"
+}
